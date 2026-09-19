@@ -1,7 +1,7 @@
 ## Eu espero que Deus me livre de ser um front-end 😃
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=sakudopo&theme=dark_github)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=sakudopo&theme=dark_github)
 <!--
 **Sakudopo/Sakudopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
