@@ -1,4 +1,6 @@
-## Hi there 👋
+## Eu espero que Deus me livre de ser um front-end 😃
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sakudopo)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Sakudopo/Sakudopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
